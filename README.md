@@ -1,4 +1,4 @@
-<h1>Dongwoo Kim</h1>
+<h1>Objective</h1>
 <h3>Seeking a fresh start as a professional software developer in Canada</h3>
 
 ### Hi there 👋
