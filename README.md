@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1>Dongwoo Kim's PortFolio</h1>
-<h3>(Objective) Seeking a fresh start as a professional software developer in Canada</h3>
+<h3>(Objective) Seeking a fresh start as a Software Developer for my second career</h3>
 
 <h3>Portfolio #1 - CISWP</h3>
 <a href="http://52.14.28.67/" target="_blank">Move To</a>
