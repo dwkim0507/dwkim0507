@@ -1,4 +1,6 @@
 <h1>Dongwoo Kim's Profile</h1>
+<p>Seeking a fresh start as a professional software developer in Canada</p>
+
 ### Hi there 👋
 
 
