@@ -1,5 +1,5 @@
 <h1>Dongwoo Kim</h1>
-<h5>Seeking a fresh start as a professional software developer in Canada</h5>
+<h3>Seeking a fresh start as a professional software developer in Canada</h3>
 
 ### Hi there 👋
 
