@@ -3,7 +3,7 @@
 <h3>(Objective) Seeking a fresh start as a professional software developer in Canada</h3>
 
 <h3>Portfolio #1 - CISWP</h3>
-<button><a href="http://52.14.28.67/">Move To</a></button>
+<a href="http://52.14.28.67/" target="_blank">Move To</a>
 
 
 <!--
