@@ -1,9 +1,12 @@
 <h1>Dongwoo Kim's Portfolio</h1>
 <h3>(Objective) Seeking a fresh start as a professional software developer in Canada, leveraging my diverse experience gained from various IT positions in South Korea.</h3>
+<p><a href="https://www.linkedin.com/in/dwkim0507/" target="_blank">(Move to LinkedIn)</a> </p>
+
 
 <h3>Portfolio #1 - CISWP</h3>
-(Used Skills) React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs
-<br />Made Both front-end and back-end programs.
+<p>Some examples were loaded in AWS.
+<br />Dongwoo Made Both front-end and back-end programs.
+<br />(Used Skills) React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs
 <br /><a href="http://52.14.28.67" target="_blank">(Move To)</a> </p>
 
 
