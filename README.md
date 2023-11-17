@@ -1,7 +1,9 @@
 <h1>Dongwoo Kim's Portfolio</h1>
 <h3>(Objective) Seeking a fresh start as a professional software developer in Canada, leveraging my diverse experience gained from various IT positions in South Korea.</h3>
-<br />
+
 <h3>Portfolio #1 - CISWP</h3>
+<p>(Used Skills) React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs</p>
+<p>Bot front-end and back-end were developed</p>
 <a href="http://52.14.28.67" target="_blank">(Move To)</a>
 
 
