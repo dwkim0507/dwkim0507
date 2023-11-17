@@ -3,7 +3,7 @@
 
 <h3>Portfolio #1 - CISWP</h3>
 (Used Skills) React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs
-<br /> Bot front-end and back-end were developed
+<br />Both front-end and back-end were developed
 <br /><a href="http://52.14.28.67" target="_blank">(Move To)</a> </p>
 
 
