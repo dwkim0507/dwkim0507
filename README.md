@@ -5,7 +5,7 @@
 
 <h3>Portfolio #1 - CISWP</h3>
 <p>Some examples were loaded in AWS.
-<br />Dongwoo Made Both front-end and back-end programs.
+<br />Dongwoo made Both front-end and back-end programs.
 <br />(Used Skills) React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs
 <br /><a href="http://52.14.28.67" target="_blank">(Move To)</a> </p>
 
