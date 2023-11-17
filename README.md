@@ -1,6 +1,7 @@
 <h1>Dongwoo Kim's Portfolio</h1>
 <h3>(Objective) Seeking a fresh start as a professional software developer in Canada, leveraging my diverse experience gained from various IT positions in South Korea.</h3>
 <p><a href="https://www.linkedin.com/in/dwkim0507/" target="_blank">(Move to LinkedIn)</a> </p>
+<br />
 
 
 <h3>Portfolio #1 - CISWP</h3>
