@@ -1,7 +1,3 @@
-<h1>Dongwoo Kim's Portfolio</h1>
-<h5>(Objective) Seeking a fresh start as a software developer in Canada, leveraging my diverse experience gained from various IT positions in South Korea.
-<br /><a href="https://www.linkedin.com/in/dwkim0507/" target="_blank">(Move to my LinkedIn)</a> </h5>
-<br />
 <h3>Portfolio #1 - CISWP</h3>
 <h5>My portfolio was opened using AWS, Nginx, and Ubuntu.
 <br />I made Both front-end and back-end programs.
