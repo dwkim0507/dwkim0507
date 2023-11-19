@@ -1,7 +1,7 @@
-<h3>Portfolio #1 - CISWP</h3>
-<h5>My portfolio was opened using AWS, Nginx, and Ubuntu.
+<h2>Portfolio #1 - CISWP</h2>
+<h3>My portfolio was opened using AWS, Nginx, and Ubuntu.
 <br />I made Both front-end and back-end programs.
-<br />(Used Skills) React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs </h5>
+<br />(Used Skills) React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs </h3>
 <h3><a href="http://52.14.28.67" target="_blank">(Move to Portfolio #1)</a> </h3>
 
 
