@@ -1,7 +1,7 @@
 <h2>Portfolio #1 - CISWP</h2>
 <h3><a href="http://52.14.28.67" target="_blank">(Move to Portfolio #1)</a> </h3>
 <h3>This portfolio was opened using AWS, Nginx, and Ubuntu. </h3>
-<h3>The program originally included both a backend and a frontend, but the back end REST APIs have been replaced with the functions of dummy files </h3>
+<h3>The program originally included both frontend and backend programs, but the back and REST APIs have been replaced with the functions of fetching dummy files </h3>
 <h3>Skills: React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs </h3>
 
 
