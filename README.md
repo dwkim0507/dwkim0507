@@ -6,7 +6,7 @@
 <h5>My portfolio was opened using AWS, Nginx, and Ubuntu.
 <br />I made Both front-end and back-end programs.
 <br />(Used Skills) React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs
-<br /><a href="http://52.14.28.67" target="_blank">(Move to)</a> </h5>
+<br /><a href="http://52.14.28.67" target="_blank">(Move to Portfolio #1)</a> </h5>
 
 
 <!--
