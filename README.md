@@ -12,9 +12,14 @@
 <ol type="1">
 
 <li> Good modularity and resusability using React components</li>
-<p>(Main Page)</p>
-<img src="/img/ciswp_home.png" width="800" />
+<p>(Nav and Hero)</p>
+<img src="/img/ciswp_nav_hero.png" width="800" />
 <br /><br />
+
+<p>(Body)</p>
+<img src="/img/ciswp_body.png" width="800" />
+<br /><br />
+
 <p>(Footer)</p>
 <img src="/img/ciswp_footer.png" width="800" />
 <br /><br />
