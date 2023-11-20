@@ -21,13 +21,13 @@
 
 
 <li> Interactive webpages using javascript programing</li>
-<p>The STRIDE Lab consists of equipments that can measure multiple dimensions of human performance related to injury risk. </p>
+<p>(STRIDE Lab of CISWP)</p>
 <img src="/img/ciswp_lab.png" width="700" />
 <br /><br />
 
 
 <li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
-<p>Webinar List, Filtering, Pagination</p>
+<p>(Webinar List, Filtering, Pagination)</p>
 <img src="/img/ciswp_webinar.png" width="800" />
 <br />
 
