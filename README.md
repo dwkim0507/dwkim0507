@@ -14,14 +14,17 @@
 <li> Good modularity and resusability using React components</li>
 <p>Main Page</p>
 <img src="/img/ciswp_home.png" width="700" />
+<br />
 <p>Footer</p>
 <img src="/img/ciswp_footer.png" width="700" />
-<br />
+<br /><br />
+
 
 <li> Interactive webpages using javascript programing</li>
 <p>The STRIDE Lab consists of equipments that can measure multiple dimensions of human performance related to injury risk. </p>
 <img src="/img/ciswp_lab.png" width="700" />
-<br />
+<br /><br />
+
 
 <li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
 <p>Webinar Youtube List, Filtering, Pagination</p>
