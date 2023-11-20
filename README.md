@@ -6,7 +6,7 @@
 <p>This program is for CISWP's web service to introduce the institute and show their facilities
   <br />(CISWP: Canadian Institute for Safety, Wellness & Performance) </p>
 <p>This website was opened in AWS cloud.</p>
-<p>The program originally included both frontend and backend programs, but the back and REST APIs have been replaced with the functions of fetching local data files to use a portfolio. </p>
+<p>The program originally included both frontend and backend programs, but the back and REST APIs have been replaced with the functions of fetching local data files to make a portfolio. </p>
 
 <h3>Key Features</h3>
 <ol type="1">
