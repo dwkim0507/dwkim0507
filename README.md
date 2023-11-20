@@ -12,11 +12,11 @@
 <ol type="1">
 
 <li> Good modularity and resusability using React components</li>
-<p>Main Page</p>
-<img src="/img/ciswp_home.png" width="700" />
+<p>(Main Page)</p>
+<img src="/img/ciswp_home.png" width="800" />
 <br /><br />
-<p>Footer</p>
-<img src="/img/ciswp_footer.png" width="700" />
+<p>(Footer)</p>
+<img src="/img/ciswp_footer.png" width="800" />
 <br /><br />
 
 
@@ -27,8 +27,8 @@
 
 
 <li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
-<p>Webinar Youtube List, Filtering, Pagination</p>
-<img src="/img/ciswp_webinar.png" width="700" />
+<p>Webinar List, Filtering, Pagination</p>
+<img src="/img/ciswp_webinar.png" width="800" />
 <br />
 
 </ol>
