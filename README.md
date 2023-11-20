@@ -12,6 +12,7 @@
 <ol type="1">
 
 <li> Good modularity and resusability using React components</li>
+<br />
 <p>(Nav and Hero)</p>
 <img src="/img/ciswp_nav_hero.png" width="800" />
 <br /><br />
@@ -33,6 +34,7 @@
 
 
 <li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
+<br />
 <p>(Webinar List, Filtering, Pagination)</p>
 <img src="/img/ciswp_webinar.png" width="800" />
 <br />
