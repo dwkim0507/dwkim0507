@@ -13,15 +13,15 @@
 
 <li> Good modularity and resusability using React components</li>
 <br />
-<p>(Nav and Hero)</p>
+<p>(Head Components: Navigation, Main_hero)</p>
 <img src="/img/ciswp_nav_hero.png" width="800" />
 <br /><br />
 
-<p>(Body)</p>
+<p>(Body Component: Main_programs, Main_projects, Main_survey, Main_news, Main_webinar, Main_pub)</p>
 <img src="/img/ciswp_body.png" width="800" />
 <br /><br />
 
-<p>(Footer)</p>
+<p>(Footer Component: Footer)</p>
 <img src="/img/ciswp_footer.png" width="800" />
 <br /><br />
 
