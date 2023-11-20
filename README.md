@@ -19,15 +19,37 @@
 <br />
 
 <h2>Portfolio #2: Capstone-JRsystem</h2>
+<h3>System Name: College Job Referrals System</h3>
 <h3>Program source: capstone-JRsystem</h3>
 <h3>Skills: ASP.net, C#, MS SQL </h3>
 <h3>About Project</h3>
-<ol type="1">
-<li>System Name: College Job Referrals System</li>
-<li>By building an internal platform focused on alumni/students and dedicated to the publication and exchange of job referral resources, we aim to centralize professional opportunities while promoting mutual assistance and support.
+<p>By building an internal platform focused on alumni/students and dedicated to the publication and exchange of job referral resources, we aim to centralize professional opportunities while promoting mutual assistance and support.</p>
+<p>Team members: Peihua Lie, Tianyu Dai, Dongwoo Kim</p>
+
+<h3>System Functionn and Feature</h3>
+<ul>
+  <li>
+User Sign Up function: This function allows new users to register in our system so they can post and apply referrals. To use the sign-up function, users need to input username, password, and sign-up date. After sign-up successfully, users can use all functions in our system.
 </li>
-<li> Team members: Peihua Lie, Tianyu Dai, Dongwoo Kim</li>
-</ol>
+  <li>
+    User Log In function: The log in function allows registered users to log in on the system so they can check and update the referrals and check the applications if they post referrals in the system. A log in user can apply and post referrals.
+  </li>
+  <li>
+    User Log Out function: users can use the log out function to log out of the system after applying or posting referrals. Users can’t see their applications and referrals after logging out.
+  </li>
+  <li>
+    Find Referrals: In this function, users can check all the referrals on our website without logging in. All the posted referrals will be displayed on the “Find” page.
+  </li>
+  <li>
+    Post Referrals: In the post referrals function, users can post referrals after they log in the system and generate new referrals. In this function, it requires Referral ID, Referral name, Job title, Post date and Deadline.
+  </li>
+  <li>
+    Admin function: In the admin page, the admin role can edit all registered user’s information, check registered users’ information and delete registered users. Admin can edit, check and delete posted referrals as well.
+  </li>
+</ul>
+
+
+
 <!--
 **dwkim0507/dwkim0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
