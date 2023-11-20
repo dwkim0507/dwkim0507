@@ -26,7 +26,8 @@
 
 
 <li> Interactive webpages using javascript programing</li>
-<p>(STRIDE Lab of CISWP)</p>
+<br />
+<p>(CISWP's STRIDE Lab Equipments)</p>
 <img src="/img/ciswp_lab.png" width="700" />
 <br /><br />
 
