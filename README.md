@@ -12,6 +12,7 @@
 <ol type="1">
 
 <li> Good modularity and resusability using React components</li>
+<img src="/img/ciswp_home.png" width="500" />
 <li> Interactive webpages using javascript programing</li>
 <li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
 </ol>
