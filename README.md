@@ -3,7 +3,7 @@
 <h3>This portfolio was opened using AWS, Nginx, and Ubuntu. </h3>
 <h3>The program originally included both frontend and backend programs, but the back and REST APIs have been replaced with the functions of fetching local data files to open a portfolio. </h3>
 <h3>Skills: React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs </h3>
-<h3>Source: portfolio_ciswp_frontend, portfolio_ciswp_backend</h3>
+<h3>Program Source: portfolio_ciswp_frontend, portfolio_ciswp_backend</h3>
 
 
 <!--
