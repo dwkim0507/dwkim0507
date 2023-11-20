@@ -19,10 +19,10 @@
 <h3>Program source: capstone-JRsystem</h3>
 <h3>Skills: ASP.net, C#, MS SQL </h3>
 <h3>About Project</h3>
-<p>College Job Referrals System</p>
-<p>By building an internal platform focused on alumni/students and dedicated to the publication and exchange of job referral resources, we aim to centralize professional opportunities while promoting mutual assistance and support.
+<p>1) System Name: College Job Referrals System</p>
+<p>2) By building an internal platform focused on alumni/students and dedicated to the publication and exchange of job referral resources, we aim to centralize professional opportunities while promoting mutual assistance and support.
 </p>
-<p>Team members: Peihua Lie, Tianyu Dai, Dongwoo Kim</p>
+<p>3) Team members: Peihua Lie, Tianyu Dai, Dongwoo Kim</p>
 
 
 <!--
