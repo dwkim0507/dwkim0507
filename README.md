@@ -9,9 +9,12 @@
 <p>The program originally included both frontend and backend programs, but the back and REST APIs have been replaced with the functions of fetching local data files to open a portfolio. </p>
 
 <h3>Key Features</h3>
-<p>1) Good modularity and resusability using React components</p>
-<p>2) Interactive webpages using javascript programing</p>
-<p>3) Backend programs to manage publicatios/Webinars/news, and REST APIs</p>
+<ol type="1">
+
+<li> Good modularity and resusability using React components</li>
+<li> Interactive webpages using javascript programing</li>
+<li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
+</ol>
 
 <br />
 
@@ -19,7 +22,7 @@
 <h3>Program source: capstone-JRsystem</h3>
 <h3>Skills: ASP.net, C#, MS SQL </h3>
 <h3>About Project</h3>
-<ol type="i">
+<ol type="1">
 <li>System Name: College Job Referrals System</li>
 <li>By building an internal platform focused on alumni/students and dedicated to the publication and exchange of job referral resources, we aim to centralize professional opportunities while promoting mutual assistance and support.
 </li>
