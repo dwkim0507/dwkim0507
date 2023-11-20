@@ -17,7 +17,7 @@
 <img src="/img/ciswp_nav_hero.png" width="800" />
 <br /><br />
 
-<p>(Body Component: Main_programs, Main_projects, Main_survey.js, Main_news, Main_webinars, Main_pubs)</p>
+<p>(Body Component: Main_programs, Main_projects, Main_survey, Main_news, Main_webinars, Main_pubs)</p>
 <img src="/img/ciswp_body.png" width="800" />
 <br /><br />
 
