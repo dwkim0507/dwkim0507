@@ -14,7 +14,7 @@
 <li> Good modularity and resusability using React components</li>
 <p>Main Page</p>
 <img src="/img/ciswp_home.png" width="700" />
-<br />
+<br /><br />
 <p>Footer</p>
 <img src="/img/ciswp_footer.png" width="700" />
 <br /><br />
