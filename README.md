@@ -36,7 +36,7 @@
 <li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
 <br />
 <p>(Webinar List, Filtering, Pagination)</p>
-<img src="/img/ciswp_webinar.png" width="800" />
+<img src="/img/ciswp_webinar.png" width="1000" />
 <br />
 
 </ol>
@@ -50,6 +50,8 @@
 <h3>About Project</h3>
 <p>By building an internal platform focused on alumni/students and dedicated to the publication and exchange of job referral resources, we aim to centralize professional opportunities while promoting mutual assistance and support.</p>
 <p>Team members: Peihua Lie, Tianyu Dai, Dongwoo Kim</p>
+<img src="/img/jr_concept.png" width="800" />
+
 
 <h3>System Functionn and Feature</h3>
 <ul>
@@ -72,6 +74,9 @@ User Sign Up function: This function allows new users to register in our system 
     Admin function: In the admin page, the admin role can edit all registered user’s information, check registered users’ information and delete registered users. Admin can edit, check and delete posted referrals as well.
   </li>
 </ul>
+
+<img src="/img/jr_usecase.png" width="800" />
+<img src="/img/jr_class.png" width="800" />
 
 
 
