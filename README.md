@@ -30,7 +30,7 @@
 <br />
 <p>(Webinar List, Filtering, Pagination)</p>
 <img src="/img/webinar.png" width="800" />
-<br />
+<br /><br />
 
 <li> CISWP's Mission</li>
 <img src="/img/mission.png" width="800" />
