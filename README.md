@@ -18,7 +18,7 @@
 <img src="/img/main2.png" width="800" />
 <img src="/img/main3.png" width="800" />
 <img src="/img/main4.png" width="800" />
-
+<br />
 <li> Interactive webpages using javascript programing</li>
 <br />
 <p>(CISWP's START Lab Equipments)</p>
