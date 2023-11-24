@@ -1,5 +1,5 @@
 <h2>Portfolio #1: CISWP</h2>
-<h3><a href="http://52.14.28.67" target="_blank">(Explore Portfolio #1)</a> </h3>
+<h3><a href="http://52.14.28.67" target="_blank">(Move to Portfolio #1)</a> </h3>
 <h3>Program Source: portfolio_ciswp_frontend, portfolio_ciswp_backend</h3>
 <h3>Skills: React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs, Nginx, Ubuntu, AWS </h3>
 <h3>(My role) Developed front-end and back-end programs, co-worked with a web designer</h3>
@@ -45,12 +45,14 @@
 <h3>System Name: College Job Referrals System</h3>
 <h3>Program source: capstone-JRsystem</h3>
 <h3>Skills: ASP.net, C#, MS SQL </h3>
+<h3>(My role) Developed student part, designed DB and system process</h3>
+<br />
 <h3>About Project</h3>
 <p>By building an internal platform focused on alumni/students and dedicated to the publication and exchange of job referral resources, we aim to centralize professional opportunities while promoting mutual assistance and support.</p>
 <p>Team members: Peihua Lie, Tianyu Dai, Dongwoo Kim</p>
 <img src="/img/jr_concept.png" width="600" />
 
-
+<br />
 <h3>System Functionn and Feature</h3>
 <ul>
   <li>
