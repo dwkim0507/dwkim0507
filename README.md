@@ -20,6 +20,20 @@
 <img src="/img/main3.png" width="800" />
 <img src="/img/main4.png" width="800" />
 <br /><br />
+
+<li>
+  <br />
+<p>(3-Phase Responsive Page)</p>
+  <br />
+  <p>(Tablet Size)</p>
+  <img src="/img/main1_rs1.png" width="500" />
+  <img src="/img/main2_rs1.png" width="500" />
+  <br />
+    <p>(Mobile Size)</p>
+  <img src="/img/main2_rs2.png" width="500" />
+</li>
+<br /><br />
+
 <li> Interactive webpages using javascript programing</li>
 <br />
 <p>(CISWP's START Lab Equipments)</p>
