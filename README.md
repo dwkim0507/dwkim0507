@@ -1,13 +1,13 @@
 <h2>Portfolio #1: CISWP</h2>
 <h3><a href="http://52.14.28.67" target="_blank">(Move to Portfolio #1)</a> </h3>
 <h3>Program Source: portfolio_ciswp_frontend, portfolio_ciswp_backend</h3>
-<h3>Skills: React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs, Nginx, Ubuntu, AWS </h3>
 <h3>(My role) Developed front-end and back-end programs, co-worked with a web designer</h3>
+<h3>Skills: React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs, Nginx, Ubuntu, AWS </h3>
 
 <p>This program is for CISWP's web service to introduce the institute and show their facilities
   <br />(CISWP: Canadian Institute for Safety, Wellness & Performance) </p>
 <p>This website was opened in AWS cloud.</p>
-<p>The program originally included both frontend and backend programs, but the back and REST APIs have been replaced with the functions of fetching local data files to make a portfolio. </p>
+<p>Both frontend and backend programs were originally developed, but the back and REST APIs have been replaced with the functions of fetching local data files to make a portfolio. </p>
 
 <h3>Key Features</h3>
 <ol type="1">
@@ -21,7 +21,7 @@
 <img src="/img/main4.png" width="800" />
 <br /><br />
 
-<li> Responsive Pages (3-Phase)
+<li> Responsive Web
   <br />
   <p>(Tablet Size)</p>
   <img src="/img/main1-rs1.png" width="500" />
