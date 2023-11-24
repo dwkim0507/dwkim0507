@@ -21,7 +21,7 @@
 <img src="/img/main4.png" width="800" />
 <br /><br />
 
-<li> Responsive Page (3-Phase)
+<li> Responsive Pages (3-Phase)
   <br />
   <p>(Tablet Size)</p>
   <img src="/img/main1-rs1.png" width="500" />
@@ -39,7 +39,7 @@
 <br />
 
 
-<li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
+<li> Backend programs to manage publications/Webinars/news, and REST APIs</li>
 <br />
 <p>(Webinar List, Filtering, Pagination)</p>
 <img src="/img/webinar.png" width="800" />
