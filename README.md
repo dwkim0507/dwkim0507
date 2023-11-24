@@ -26,11 +26,11 @@
 <p>(3-Phase Responsive Page)</p>
   <br />
   <p>(Tablet Size)</p>
-  <img src="/img/main1_rs1.png" width="500" />
-  <img src="/img/main2_rs1.png" width="500" />
+  <img src="/img/main1-rs1.png" width="500" />
+  <img src="/img/main2-rs1.png" width="500" />
   <br />
     <p>(Mobile Size)</p>
-  <img src="/img/main2_rs2.png" width="500" />
+  <img src="/img/main2-rs2.png" width="350" />
 </li>
 <br /><br />
 
