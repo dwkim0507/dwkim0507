@@ -13,31 +13,27 @@
 
 <li> Good modularity and resusability using React components</li>
 <br />
-<p>(Head Components: Navigation, Main_hero)</p>
-<img src="/img/ciswp_nav_hero.png" width="800" />
-<br /><br />
-
-<p>(Body Component: Main_programs, Main_projects, Main_survey, Main_news, Main_webinars, Main_pubs)</p>
-<img src="/img/ciswp_body.png" width="800" />
-<br /><br />
-
-<p>(Footer Component: Footer)</p>
-<img src="/img/ciswp_footer.png" width="800" />
-<br /><br />
-
+<p>(Landing Page)</p>
+<img src="/img/main1.png" width="800" />
+<img src="/img/main2.png" width="800" />
+<img src="/img/main3.png" width="800" />
+<img src="/img/main4.png" width="800" />
 
 <li> Interactive webpages using javascript programing</li>
 <br />
-<p>(CISWP's STRIDE Lab Equipments)</p>
-<img src="/img/ciswp_lab.png" width="800" />
-<br /><br />
+<p>(CISWP's START Lab Equipments)</p>
+<img src="/img/lab_start.png" width="800" />
+<br />
 
 
 <li> Backend programs to manage publicatios/Webinars/news, and REST APIs</li>
 <br />
 <p>(Webinar List, Filtering, Pagination)</p>
-<img src="/img/ciswp_webinar.png" width="1000" />
+<img src="/img/webinar.png" width="800" />
 <br />
+
+<li> CISWP's Mission</li>
+<img src="/img/mission.png" width="800" />
 
 </ol>
 
