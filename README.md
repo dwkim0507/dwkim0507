@@ -23,7 +23,7 @@
 
 <li>
   <br />
-<p>(3-Phase Responsive Page)</p>
+  <p>(3-Phase Responsive Page)</p>
   <br />
   <p>(Tablet Size)</p>
   <img src="/img/main1-rs1.png" width="500" />
