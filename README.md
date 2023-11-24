@@ -1,8 +1,8 @@
 <h2>Portfolio #1: CISWP</h2>
 <h3><a href="http://52.14.28.67" target="_blank">(Move to Portfolio #1)</a> </h3>
-<h3>Program Source: portfolio_ciswp_frontend, portfolio_ciswp_backend</h3>
 <h3>(My role) Developed front-end and back-end programs, co-worked with a web designer</h3>
 <h3>Skills: React, Javascript, HTML, CSS, NodeJS, Express, MongoDB, REST APIs, Nginx, Ubuntu, AWS </h3>
+<h3>Program Source: portfolio_ciswp_frontend, portfolio_ciswp_backend</h3>
 
 <p>This program is for CISWP's web service to introduce the institute and show their facilities
   <br />(CISWP: Canadian Institute for Safety, Wellness & Performance) </p>
