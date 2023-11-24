@@ -21,9 +21,7 @@
 <img src="/img/main4.png" width="800" />
 <br /><br />
 
-<li>
-  <br />
-  <p>(3-Phase Responsive Page)</p>
+<li> 3-Phase Responsive Page)
   <br />
   <p>(Tablet Size)</p>
   <img src="/img/main1-rs1.png" width="500" />
