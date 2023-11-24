@@ -33,7 +33,8 @@
 <br /><br />
 
 <li> CISWP's Mission</li>
-<img src="/img/mission.png" width="800" />
+<br />
+<img src="/img/mission.png" width="800" style="border:1px;" />
 
 </ol>
 
