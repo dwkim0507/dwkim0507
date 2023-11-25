@@ -8,7 +8,7 @@
   <br />(CISWP: Canadian Institute for Safety, Wellness & Performance) </p>
 <p>This website was opened in AWS cloud.</p>
 
-<h3 style="font-size: 50px">Front End</h3>
+<h3>Front End</h3>
 <ol type="1">
 
 <li> Good modularity and resusability using React components</li>
