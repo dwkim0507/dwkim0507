@@ -8,7 +8,7 @@
   <br />(CISWP: Canadian Institute for Safety, Wellness & Performance) </p>
 <p>This website was opened in AWS cloud.</p>
 
-<strong><h3>Front End</h3></strong>
+<h3 style="font-size: 50px">Front End</h3>
 <ol type="1">
 
 <li> Good modularity and resusability using React components</li>
@@ -38,7 +38,7 @@
 <br />
 
 
-<li> Backend programs to manage publications/Webinars/news, and REST APIs</li>
+<li> REST API</li>
 <br />
 <p>(Webinar List, Filtering, Pagination)</p>
 <img src="/img/webinar.png" width="800" />
@@ -52,9 +52,9 @@
 
 <br /> <br />
 
-<strong><h3>Back End</h3></strong>
+<h3>Back End : Administration</h3>
 <br />
-<p>(Adminstration Login)</p>
+<p>(Login)</p>
 <img src="/img/back_login.png" width="600" />
 
 <br />
