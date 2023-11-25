@@ -6,7 +6,7 @@
 
 <p>This program is for CISWP's web service to introduce the institute and show their facilities
   <br />(CISWP: Canadian Institute for Safety, Wellness & Performance) </p>
-<p>This website was opened in AWS cloud.</p>
+<p>This portfolio was opened in AWS cloud.</p>
 
 <h3>Front End</h3>
 <ol type="1">
