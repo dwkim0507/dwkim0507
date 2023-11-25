@@ -24,11 +24,11 @@
 <li> Responsive Web
   <br />
   <p>(Tablet Size)</p>
-  <img src="/img/main1-rs1.png" width="500" />
-  <img src="/img/main2-rs1.png" width="500" />
+  <img src="/img/main1-rs1.png" width="650" />
+  <img src="/img/main2-rs1.png" width="650" />
   <br />
     <p>(Mobile Size)</p>
-  <img src="/img/main2-rs2.png" width="350" />
+  <img src="/img/main2-rs2.png" width="500" />
 </li>
 <br /><br />
 
