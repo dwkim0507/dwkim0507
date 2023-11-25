@@ -8,7 +8,7 @@
   <br />(CISWP: Canadian Institute for Safety, Wellness & Performance) </p>
 <p>This portfolio was opened in AWS cloud.</p>
 
-<h3>Front End</h3>
+<h3>[Front End]</h3>
 <ol type="1">
 
 <li> Good modularity and resusability using React components</li>
@@ -52,7 +52,7 @@
 
 <br /> <br />
 
-<h3>Back End : Administration</h3>
+<h3>[Back End & Administration]</h3>
 <br />
 <p>(Login)</p>
 <img src="/img/back_login.png" width="600" />
